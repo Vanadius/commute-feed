@@ -1,0 +1,14 @@
+{
+  "slug": "006-feynman-diagrams",
+  "number": 6,
+  "title": "What a Feynman diagram is",
+  "track": "curiosity",
+  "duration_sec": 1759,
+  "bytes": 10552233,
+  "rendered_at": "2026-11-11T21:31:46Z",
+  "model": "gemini-3.8-flash-tts",
+  "voices": {
+    "ALEX": "Charon",
+    "SAM": "Puck"
+  }
+}

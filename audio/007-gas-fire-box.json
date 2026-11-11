@@ -1,0 +1,14 @@
+{
+  "slug": "007-gas-fire-box",
+  "number": 7,
+  "title": "The gas fire, part 2: the box",
+  "track": "smithing",
+  "duration_sec": 1571,
+  "bytes": 9423900,
+  "rendered_at": "2026-11-11T21:35:01Z",
+  "model": "gemini-3.8-flash-tts",
+  "voices": {
+    "ALEX": "Charon",
+    "SAM": "Puck"
+  }
+}

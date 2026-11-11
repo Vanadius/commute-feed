@@ -1,0 +1,14 @@
+{
+  "slug": "002-times-arrow",
+  "number": 2,
+  "title": "Time's arrow",
+  "track": "curiosity",
+  "duration_sec": 1773,
+  "bytes": 10640788,
+  "rendered_at": "2026-11-11T21:16:51Z",
+  "model": "gemini-3.8-flash-tts",
+  "voices": {
+    "ALEX": "Charon",
+    "SAM": "Puck"
+  }
+}

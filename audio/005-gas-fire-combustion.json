@@ -1,0 +1,14 @@
+{
+  "slug": "005-gas-fire-combustion",
+  "number": 5,
+  "title": "The gas fire, part 1: combustion",
+  "track": "smithing",
+  "duration_sec": 1635,
+  "bytes": 9807587,
+  "rendered_at": "2026-11-11T21:27:59Z",
+  "model": "gemini-3.8-flash-tts",
+  "voices": {
+    "ALEX": "Charon",
+    "SAM": "Puck"
+  }
+}

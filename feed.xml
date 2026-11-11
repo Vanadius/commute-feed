@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Commute Series</title>
+    <link>https://vanadius.github.io/commute-feed/</link>
+    <description>Two hosts, one idea per drive: metallurgy and the gas forge alternating with whatever is worth chewing on. Private listening.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2026 21:39:58 +0000</lastBuildDate>
+    <itunes:author>Commute Series</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>008. Feeding an army before refrigeration</title>
+      <description>- Pre-refrigeration army food was food pushed below the water-activity line where microbes stop growing: threshed grain, twice-baked biscuit, salt pork and beef, dried meat and pemmican. It kept the calories and lost the vitamin C, which is why scurvy was the limit, mostly at sea.
+- On land the binding constraint was carrying, not keeping. Animals eat what they haul (Engels's arithmetic, Devereaux's "wagon equation"), so overland supply had a radius of a few days and armies carried about seven to ten days of food; the rest came from water transport, requisition, markets and foraging, in proportions set by season and population density (van Creveld versus Lynn).
+- Famous cases: Alexander's Gedrosian march (a fleet that didn't arrive), Napoleon's 1812 invasion (wagons, roads, horses and disease broke the army in summer, before the winter), and the Civil War, where the canning industry boomed but the issued ration was still salt pork and hardtack.
+
+Chew on this:
+1. The carrier that eats its own cargo shows up in wagons and in rockets. Where else does that pattern appear, and what were the escapes (ships for armies, staging for rockets)?
+2. Lind's correct rule (citrus) rode on a wrong mechanism (acid), and the wrong mechanism let the navy swap lemons for limes. Can you think of a rule with a wrong reason that held up fine for centuries, and what made it safe?
+3. The seven-to-ten-day buffer keeps appearing, from Engels's Macedonians to Sherman's wagons. What would have to change about the animal, the road, or the food to break it?
+
+Sources:
+- Grain stored threshed not as flour, Roman contubernium hand mills, Greek hoplite armies lacking them, foraging parties up to a legion, 5 to 15 percent extraction, army size scale: Bret Devereaux, ACOUP, "Logistics, How Did They Do It, Part II: Foraging": https://acoup.blog/2022/07/29/collections-logistics-how-did-they-do-it-part-ii-foraging/
+- Wagon equation, mule load (about 130 kg) and barley ration (about 2.25 kg a day), wagon load and consumption, Roth's Roman ration (1.1 to 1.3 kg, 0.85 kg grain), Junkelmann load and about ten days of food, Army of Flanders minimum bread ration, water tripling the load, criticism of Engels: Bret Devereaux, ACOUP, "Logistics, How Did They Do It, Part I: The Problem": https://acoup.blog/2022/07/15/collections-logistics-how-did-they-do-it-part-i-the-problem/
+- Water transport as the escape from the wagon equation: Bret Devereaux, ACOUP, "Logistics, How Did They Do It, Part III: On the Move": https://acoup.blog/2022/08/12/collections-logistics-how-did-they-do-it-part-iii-on-the-move/
+- Water activity definition and thresholds (bacteria about 0.91, yeasts 0.85, molds 0.80; 12 percent and 15 percent salt): Clemson Cooperative Extension, Available Moisture in Foods: https://hgic.clemson.edu/available-moisture-in-foods/
+- Ship's biscuit, one pound a day at the Armada and in Pepys's table, weevils, tinned beef issued from 1847: Royal Museums Greenwich, The ship's biscuit: https://www.rmg.co.uk/stories/maritime-history/ships-biscuit
+- Hardtack baked four times for long voyages, bucellatum, Civil War nicknames: Wikipedia, Hardtack: https://en.wikipedia.org/wiki/Hardtack
+- Pemmican composition, Cree name, 41 kg bags, fur trade, Royal Navy Arctic pemmican: The Canadian Encyclopedia, Pemmican: https://www.thecanadianencyclopedia.ca/en/article/pemmican
+- Engels-based figures (three pounds of grain and two quarts of water per man, ten pounds of feed and eight gallons per animal, 65,000 people, over 1,000 tons a day): Macmillan history textbook page, "Taking Measure: The March of Alexander the Great's Army" (cites Engels 1978): https://digfir-published.macmillanusa.com/hunt5e/hunt5e_ch04_45.html
+- Four-day overland radius, seven to ten days carried, criticism of manpower figures: Roger Bagnall, review of Engels, Classical Journal 75.4 (1980): https://archive.nyu.edu/bitstream/2451/63211/1/E10-Engels.pdf
+- Engels's 3,600-calorie basis versus Roth's ~3,000, Engels on massing food ahead, Roth's two sextarii (one modius per contubernium), several weeks carried: Adrian Goldsworthy, review of Roth, Bryn Mawr Classical Review 1999.11.01: https://bmcr.brynmawr.edu/?p=21462
+- Gedrosia, fleet delayed by monsoon, up to 75 percent losses: History Hit, How Did Alexander the Great Sustain His Army?: https://www.historyhit.com/how-did-alexander-the-great-sustain-his-army/
+- Van Creveld's thesis and Lynn's critique (methods list, ovens and magazines), Perjés and seasonality, field ovens one or two marches behind: "Supplying War" 40th anniversary review: https://hgw-davie.squarespace.com/blog/2017/5/3/supplying-war-logistics-from-wallenstein-to-patton-40th-anniversary
+- Van Creveld on ammunition before 1870 and railways: Book and Sword, "Some Thoughts on van Creveld's Supplying War": https://www.bookandsword.com/2021/07/03/some-thoughts-on-van-crevelds-supplying-war/
+- Napoleonic corps on parallel roads, each foraging to one side: warhistory.org, Logistic Systems Before 1850: https://warhistory.org/2017/04/01/logistic-systems-before-1850/
+- Lynn's critique of van Creveld (abstract): John Lynn, "The History of Logistics and Supplying War," in Feeding Mars: https://www.taylorfrancis.com/chapters/edit/10.4324/9780429037481-2/history-logistics-supplying-war-john-lynn
+- Sherman's order to "forage liberally" with ten days' provisions and three days' forage kept in the wagons: Wikipedia, Special Field Orders No. 120: https://en.wikipedia.org/wiki/Special_Field_Orders_No._120
+- Saying's origin (Carlyle 1858, Frederick; Napoleon by 1862; Las Cases quotes): Quote Investigator, "An Army Marches On Its Stomach": https://quoteinvestigator.com/2017/10/15/army/
+- 1812 train battalions and vehicles, Danzig stores, cattle, thunderstorm, 5,000 dead horses by Vilnius, one-third loss in eight weeks, 100,000 to sickness and desertion, about 100,000 at Moscow: Wikipedia, French invasion of Russia: https://en.wikipedia.org/wiki/French_invasion_of_Russia
+- Trench fever (7 of 35) and typhus (3 of 35) DNA in Vilnius mass grave, lice with B. quintana: Raoult et al., Journal of Infectious Diseases 193(1), 2006 (record): https://etudes-nordiques.cnrs.fr/s/numenord/item/18051
+- Montalivet letter of 30 January 1810, 12,000 francs on condition of printing and 200 copies, Brest naval health council report (Brumaire year 12), sea trial of four months ten days, heat as "the preserving principle," exclusion of air: Appert, The Art of Preserving All Kinds of Animal and Vegetable Substances (1812 English translation), Project Gutenberg: https://www.gutenberg.org/files/52551/52551-h/52551-h.htm
+- Ex gratia payment of 1810, 1795 prize as usually told, Durand 1810, Donkin and Hall 1812: Wikipedia, Nicolas Appert: https://en.wikipedia.org/wiki/Nicolas_Appert
+- 1795 Directory prize as usually told; 1810 award required publication: Britannica, Nicolas Appert: https://www.britannica.com/biography/Nicolas-Appert
+- Appert didn't know why it worked; Pasteur more than 50 years later: Smithsonian, "The Father of Canning Knew His Process Worked, But Not Why It Worked": https://www.smithsonianmag.com/smart-news/father-canning-knew-his-process-worked-not-why-it-worked-180961960/
+- Canned food predates the can opener by about 30 years; chisels and bayonets: History.com, "What It Says on the Tin: A Brief History of Canned Food": https://www.history.com/articles/what-it-says-on-the-tin-a-brief-history-of-canned-food
+- Lind trial date, ship, twelve men, treatments, 1753 treatise, putrefaction theory, not calling citrus a cure, 1795 Admiralty order, Blane: Review on PubMed Central (PMC6399651): https://pmc.ncbi.nlm.nih.gov/articles/PMC6399651
+- Boiled rob destroyed vitamin C, at least a month to symptoms, 1795 daily issue, limes taking over during the Napoleonic wars, 1918 test, Holst and Frølich 1907, 1932 link proven, Civil War scurvy, Larrey and horse meat at Alexandria 1801: Wikipedia, Scurvy: https://en.wikipedia.org/wiki/Scurvy
+- Lime switch around 1860, copper piping and storage, 1875 Nares expedition scurvy despite lime juice: Maciej Ceglowski, "Scott and Scurvy," Idle Words: https://idlewords.com/2010/03/scott_and_scurvy.htm
+- Canning output 5 million to 30 million cans 1860 to 1865, Isaac Solomon's 1860 method, Borden's 1856 milk plant: Martin H. Stack, "Canning Industry," Dictionary of American History, via Encyclopedia.com: https://encyclopedia.com/history/dictionaries-thesauruses-pictures-and-press-releases/canning-industry
+- Union ration regulations, desiccated vegetables, vinegar as antiscorbutic, canned goods not standard issue, sutlers and packages, beef on the hoof: R. E. J. Myzie, "Federal Army Rations," Essential Civil War Curriculum, Virginia Tech: https://essentialcivilwarcurriculum.com/federal-army-rations.html
+- Borden's factories only in the North, "desecrated vegetables," salt pork as a staple: American Battlefield Trust, Senses of the Civil War: Taste: https://www.battlefields.org/learn/articles/senses-civil-war-taste
+
+Not sourced, stated from general knowledge in the episode: salting works partly by osmotic dehydration; smoking adds surface drying; Gedrosia's location in today's southern Pakistan and Iran; Napoleon was not in power in 1795; limes contain less vitamin C than lemons (the 1918 test result is sourced, the general comparison is not).</description>
+      <enclosure url="https://vanadius.github.io/commute-feed/audio/008-feeding-an-army.mp3" length="10421203" type="audio/mpeg" />
+      <guid isPermaLink="false">commute-series-008-feeding-an-army</guid>
+      <pubDate>Wed, 11 Nov 2026 21:39:58 +0000</pubDate>
+      <itunes:duration>1737</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>007. The gas fire, part 2: the box</title>
+      <description>- At forging heat the walls heat the steel, mostly by radiation that goes as the fourth power of absolute temperature (Stefan-Boltzmann): walls at 1300 C radiate about 350 kW per square meter, published furnace work puts radiation at 75 to 90 percent of heat to the load, and a 3 inch square door leaks about 2 kW.
+- Lining is a trade between low stored heat (fiber, about 128 kg/m3) and thermal mass (hard firebrick, about 2,100 kg/m3); hot insulating firebrick conducts no worse than blanket, and fiber heats fast because there is so little of it, not because heat moves slowly through it. Rigidizer and hard coatings earn their keep mechanically (erosion, dust, flux); reflectivity claims are unverified. Fired refractory ceramic fiber (IARC 2B) partly converts to cristobalite and is the real breathing hazard.
+- Size the burner to the chamber (about one 3/4 inch burner per 300 to 350 cubic inches for normal shapes), bring it in tangentially to avoid a hot spot, and pick venturi, blown or ribbon by need. Forge welds fail on oxide more than on heat; borax dissolves iron oxide into a low-melting glass, and dissolves the refractory floor the same way.
+
+Forge task:
+Map the chamber. Run the forge at your usual forging pressure and let it soak 20 to 30 minutes. Put four short pieces of the same mild steel (for example 1/2 inch round) on the floor: center, each back corner, just inside the door. Pull them at the same moment after a couple of minutes, lay them side by side in shade and compare colors; note which faced the burner. Then lay one long bar across the floor and watch the color gradient. Sketch the chamber from above and mark the hot spot and cold corners. Repeat at a lower pressure if there's time.
+
+Safety: ventilation and a CO alarm every time; soapy-water leak test on every fitting before lighting, never a flame; propane pools low, natural gas rises. Shaded glasses (about shade 2 to 3) when looking into the chamber, don't stare, and keep your face out of line with the door. Don't brush or poke bare fiber; a crumbling lining is a separate job with a P100 respirator, wetted down, outdoors.
+
+Chew on this:
+1. If radiation does most of the work and goes as the fourth power of wall temperature, should your next effort go into a bigger burner or a better box? Which would you test first?
+2. A fiber forge heats a blade faster but drops temperature faster when the cold blade goes in. For an even hardening heat, which matters more, and could you get both?
+3. If a closed hot box is nearly a blackbody whatever the coating, how would you design a fair test of whether a reflective coating does anything in your forge?
+
+Sources:
+- Cavity radiation approximating a blackbody, independent of cavity properties: Wikipedia, Black body: https://en.wikipedia.org/wiki/Black_body
+- Radiation 75 to 90 percent of heat to the load in high temperature furnaces, about 90 percent in their furnace: Herrera et al., DYNA 88(217), 2021: https://www.redalyc.org/journal/496/49671281031/html/
+- High temperature furnaces heat mainly by line-of-sight wall radiation, low temperature ones by convection: The Heat Treat Doctor, Heat Treatment of Fasteners, Tips for Operation: https://www.heat-treat-doctor.com/documents/TipsforEquipOp.pdf
+- Forced convection in gases 25 to 250 W/m2K (from Incropera): Michigan Tech, typical values of heat transfer coefficient: https://pages.mtu.edu/~fmorriso/cm3120/typical_values_heat_transfer_coefficient.pdf
+- Kaowool blanket densities, conductivity at mean temperatures, 1260 C classification, 1093 C continuous: Morgan, Kaowool Blankets data sheet: https://www.morganadvancedmaterials.com/media/2975/5-14-205_kaowoolblankets_072018.pdf
+- K-23 and K-26 insulating firebrick density, conductivity, classification temperatures: Morgan, K IFB series data sheet: https://www.morganthermalceramics.com/media/9429/k-ifb-series_eng.pdf
+- Kast-O-Lite 30 density, conductivity, 1650 C limit, 55 percent alumina: Kast-O-Lite 30 LI Plus data sheet: https://cdn.shopify.com/s/files/1/0453/9799/9783/files/KAST-O-LITE_30_LI_PLUS_data.pdf
+- Dense high-duty firebrick density about 134 pcf and conductivity about 1.2 to 1.4 W/mK: Jet D.P. High Duty Firebrick data sheet: https://cdn.shopify.com/s/files/1/1023/7667/files/Jet_D.P._High_Duty_Firebrick.pdf
+- Specific heat of porous aluminium silicate, 800 to 900 J/kgK: Morgan Technical Ceramics, specific heat capacity: https://www.morgantechnicalceramics.com/en-gb/ceramics-101/thermal-properties-of-ceramics/specific-heat-capacity/
+- Rigidizer is colloidal silica; claims surface hardness and erosion resistance: Morgan, Kaowool Rigidizer data sheet: https://morganthermalceramics.com/media/2otls4gl/kaowool-rigidizer_eng.pdf
+- ITC-100 reflectivity and savings claims, no emissivity or test conditions: ITC-100 technical data sheet: https://cdn.shopify.com/s/files/1/1896/6099/files/ITC-100_Technical_Data_Sheet.pdf
+- Seal coat before emissive coat; zircon flux resistance: iForgeIron, Refractory coatings 101: https://www.iforgeiron.com/topic/69815-refractory-coatings-101/
+- IARC: RCF Group 2B; glass, rock and slag wool Group 3; biopersistence and long fibers: IARC Monograph Vol. 81 summary (INCHEM): https://inchem.org/documents/iarc/vol81/81.html
+- RCF pleural plaques correlation, no lung tumor increase in US mortality study, devitrification above 900 C, FFP2/FFP3 guidance: Morgan RCF safety data sheet (Cerafelt): https://morganthermalceramics.com/media/zojnxex5/103-ghs-uae.pdf
+- NIOSH REL 0.5 f/cc: NIOSH update on RCF criteria document, 2006: https://archive.cdc.gov/www_cdc_gov/niosh/updates/upd-06-12-06.html
+- Cristobalite above about 1050 to 1100 C, after-service RCF, half-mask with 100-series filter, supplied air for removal, pleural plaques: NIOSH Criteria Document 2006-123: https://Cdc.gov/niosh/docs/2006-123/pdfs/2006-123.pdf
+- RCF EU Carc. 1B, AES (Superwool) exonerated under Note Q: Morgan EHS fact sheet 11: https://www.morganthermalceramics.com/media/1522/factsheet11_europe-ehs.pdf
+- Superwool Plus composition, 1200 C classification, low biopersistence, exonerated: Superwool Plus data sheet: https://captiveaire.com/CatalogContent/ductwork/doc/Superwool%20Plus%20Datasheet.pdf
+- One 3/4 inch burner per 300 to 350 cubic inches; Reil 450 BTU/hr per cubic inch for welding; tangential placement; long narrow chambers; don't mount burner deep: iForgeIron, burner to cubic inch relationship: https://www.iforgeiron.com/topic/44773-burner-to-cubic-inch-relationship/
+- Blown vs atmospheric trade-offs, blower failure leaving a rich flame: iForgeIron, blown forge vs atmospheric: https://www.iforgeiron.com/topic/17534-blown-forge-vs-atmospheric/
+- Ribbon burner evenness, disputed efficiency, a hot spot can be useful: iForgeIron, ribbon burners really that efficient: https://www.iforgeiron.com/topic/67290-ribbon-burners-really-that-efficient/
+- Ribbon burner burnback from low mixture velocity and cooler edge ports: iForgeIron, ribbon burner overheat: https://www.iforgeiron.com/topic/66730-ribbon-burner-overheat/
+- Heat, pressure and cleanliness trade off (citing Tylecote); oxidation the enemy, neutral to reducing flame: iForgeIron, what temp for successful forge welds: https://www.iforgeiron.com/topic/34541-what-temp-for-successful-forge-welds/
+- Flux lowers melting point and viscosity of oxides; sand plus wustite makes fayalite; welding colors: Wikipedia, Forge welding: https://en.wikipedia.org/wiki/Forge_welding
+- FeO melts at 1377 C: Wikipedia, Iron(II) oxide: https://en.wikipedia.org/wiki/Iron(II_oxide)
+- Anhydrous borax melts at 743 C; dissolves metal oxides into glasses; borax bead test: Wikipedia, Borax: https://en.wikipedia.org/wiki/Borax
+- Borax dissolves refractories as well as scale: Anvilfire, Borax as flux: https://anvilfire.com/21centbs/material/borax.php
+- Flux damage to forge floors, sacrificial brick, coatings, Kast-O-Lite not immune: iForgeIron, borax and forge floor: https://www.iforgeiron.com/topic/63948-borax-and-forge-floor/
+- IR eye hazard is cumulative, worse in gas forges, shade 2 to 3 for forge work: Anvilfire, vision safety: https://anvilfire.com/21st-century-blacksmithing/vision-safety
+
+Not sourced, stated from general knowledge in the episode: the Stefan-Boltzmann law and its constant (5.67e-8 W/m2K4); a clean blue gas flame is a poor radiator; fiber conductivity rises with temperature because of radiation across the pores; thermal diffusivity as the governing quantity for how fast a temperature change propagates; wustite as the main scale constituent at forging heat; hard-brick forge shells running hot enough to burn; fiber blanket behind a thin castable hot face as common practice; venturi mixture tied to gas flow; propane pools low and natural gas rises; wet-down, bagging and outdoor work for hobby relining.</description>
+      <enclosure url="https://vanadius.github.io/commute-feed/audio/007-gas-fire-box.mp3" length="9423900" type="audio/mpeg" />
+      <guid isPermaLink="false">commute-series-007-gas-fire-box</guid>
+      <pubDate>Wed, 11 Nov 2026 21:35:01 +0000</pubDate>
+      <itunes:duration>1571</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>006. What a Feynman diagram is</title>
+      <description>- A Feynman diagram is one term in a perturbation series for a scattering amplitude: external lines are particle states, internal lines are propagators, each vertex is a factor of the coupling, and free loop momenta are integrated over. In QED each extra loop costs another power of the fine-structure constant (about 1/137), so the series is useful.
+- The showcase is the electron's magnetic moment: Schwinger's one-loop alpha/2pi (1947-48), then 7, 72, 891 and 12,672 diagrams at two to five loops. The 2023 Northwestern measurement (0.13 parts per trillion) agrees with theory to about one part in 10^12, conditional on which measured value of alpha is used.
+- The positron-as-backward-electron idea (Stueckelberg 1941, Feynman 1949) is a reading of the math. The arrow tracks electron-number (charge) flow, and a diagram fixes neither a trajectory nor a time order. Diagrams spread by apprenticeship (Kaiser) and fail where the coupling is not small, such as low-energy QCD.
+
+Chew on this:
+1. If a single diagram can be reshuffled by changing a convention but the sum can't, what does it mean to say a particular diagram "dominates" a process? Is that a statement about the world or about the bookkeeping?
+2. Experiment, theory and the value of alpha are tied in a knot of three. If the cesium and rubidium values stay apart, how would you decide which side of the knot is wrong?
+3. Smiths got steel right for millennia without the theory, and physicists get predictions right with a series they believe doesn't converge. Is there a real difference between a craft that works without knowing why and a calculation that works while knowing it strictly shouldn't?
+
+Sources:
+- Measured g/2 with 0.13 ppt uncertainty, 2.2 times better than 2008, agreement to 1 part in 10^12, Cs and Rb alpha discrepancy, alpha from g: Fan, Myers, Sukra, Gabrielse, "Measurement of the Electron Magnetic Moment," Phys. Rev. Lett. (2023), arXiv 2209.13084: https://ar5iv.labs.arxiv.org/html/2209.13084
+- Five-loop result: 12,672 diagrams, 891 at four loops, coefficient 9.16(58), automated code generation and numerical integration, agreement with experiment: Aoyama, Hayakawa, Kinoshita, Nio, "Tenth-Order QED Contribution to the Electron g-2," Phys. Rev. Lett. 109, 111807 (2012), arXiv 1205.5368: https://ar5iv.labs.arxiv.org/html/1205.5368
+- Schwinger's alpha/2pi (end of 1947), Kusch and Foley, diagram counts 1, 7, 72, 891, 12,672, higher orders at least a hundred times smaller, Dyson's divergence argument and the asymptotic-series view: Ivan Todorov, "From Euler's play with infinite series to the anomalous magnetic moment," arXiv 1804.09553 (2018): https://arxiv.org/pdf/1804.09553
+- Fine-structure constant, 1/137.035 999 177 (CODATA 2022): Particle Data Group, Physical Constants table (2025): https://pdg.lbl.gov/2025/reviews/rpp2025-rev-phys-constants.pdf
+- Vertex factor proportional to the electron charge, two vertices at tree level, virtual particles off the mass shell, arrows showing particle flow, internal lines integrated over all space and time so a diagram includes all time orderings: Oxford teaching handout, "Feynman diagrams" (AJB, 2011): https://users.ox.ac.uk/~dpmp0180/teaching/feynman.pdf
+- Fermion arrows point along particle flow and backwards for antiparticles; time order not important: Mike Birse, University of Manchester, PHYS 30121 notes on Feynman diagrams: https://www.theory.physics.manchester.ac.uk/~mikeb/lecture/phys30121/feynman.pdf
+- Diagrams as terms in the perturbation series, vertices and propagators, diagrams not the same as bubble-chamber pictures or positions, zero radius of convergence, bound states absent from perturbative diagrams: Wikipedia, Feynman diagram: https://en.wikipedia.org/wiki/Feynman_diagram
+- "Virtual particles are not particles at all," lines as "figments of a mathematical toolbox": Matt Strassler, Of Particular Significance blog (2011): https://profmattstrassler.com/2011/10/10/virtual-particles-not-particles-at-all/
+- The case for and against virtual particles (Falkenburg, Teller, Weingard, Fox), conclusion that they are as real as other quantum particles: Gregg Jaeger, "Are Virtual Particles Less Real?", Entropy 21(2), 2019: https://pmc.ncbi.nlm.nih.gov/articles/PMC7514619
+- Feynman's "dippy process," Dirac's "not sensible mathematics," renormalization as replacing infinite bare quantities with measured ones, Wilson's effective-theory view: Charlie Wood, "How Mathematical Hocus-Pocus Saved Particle Physics," Nautilus (2020): https://nautil.us/how-mathematical-hocus-pocus-saved-particle-physics-237967
+- Stueckelberg's 1941 positron interpretation (Helvetica Physica Acta), 1943 renormalization paper rejected by Physical Review, late recognition: Wikipedia, Ernst Stueckelberg: https://en.wikipedia.org/wiki/Ernst_Stueckelberg
+- Wheeler's spring 1940 phone call, Feynman's objection about electron and positron numbers, the 1949 "Theory of Positrons," "stole" in the Nobel lecture: Wikipedia, One-electron universe: https://en.wikipedia.org/wiki/One-electron_universe
+- The Dirac sea, negative-energy solutions, Stueckelberg's backward-propagating modes, field theory making holes unnecessary: Wikipedia, Antiparticle: https://en.wikipedia.org/wiki/Antiparticle
+- 1965 prize to Tomonaga, Schwinger and Feynman, with the official motivation: NobelPrize.org, Physics 1965: https://www.nobelprize.org/prizes/physics/1965/summary/
+- Tomonaga's 1946 paper and wartime work: Wikipedia, Shin'ichiro Tomonaga: https://en.wikipedia.org/wiki/Shin%27ichir%C5%8D_Tomonaga
+- Dyson's 1949 equivalence proof as the first paper to use the diagrams: Wikipedia, Freeman Dyson: https://en.wikipedia.org/wiki/Freeman_Dyson
+- Dyson's "flash of illumination on the Greyhound bus": Institute for Advanced Study, "A Flash of Illumination on the Greyhound Bus": https://ias.edu/node/204096
+- Pocono 1948 (28 theorists, Schwinger's marathon talk, Bohr, Dirac and Teller interrupting), Dyson at IAS in fall 1948, the "postdoc cascade," 114 Physical Review authors 1949-54, over 80 percent still in training, local dialects, under a fifth on high-order QED and over half on nuclear topics, Schwinger's "computation to the masses" and "pedagogy, not physics," Feynman's warning to Fermi: David Kaiser, "Physics and Feynman's Diagrams," American Scientist (2005): https://chaosbook.org/library/FeynmDiagAmSci0305.pdf
+- Kaiser's book and its argument about informal, face-to-face dispersion: Eugen Merzbacher, Physics Today review of "Drawing Theories Apart": https://physicstoday.aip.org/reviews/drawing-theories-apart-the-dispersion-of-feynman-diagrams-in-postwar-physics
+- Asymptotic freedom, the strong force weakening at short distance and strengthening with separation, 2004 prize: NobelPrize.org, Physics 2004 press release: https://www.nobelprize.org/prizes/physics/2004/press-release/
+- alpha_s at the Z mass about 0.118, perturbative evolution trusted only above Q^2 of about 4 GeV^2, perturbative coupling diverging near Lambda, lattice methods at low Q: Deur, Brodsky, Roberts, "QCD Running Couplings and Effective Charges," arXiv 2303.00723 (2023): https://arxiv.org/pdf/2303.00723
+- Dyson's 1952 sign-flip argument (an unstable vacuum when e^2 is negative, so the series cannot converge): Andrea Isgro, MSc thesis, University of Milan, arXiv 1509.00359: https://arxiv.org/pdf/1509.00359
+
+Not sourced, stated from general knowledge in the episode: Dirac's equation dating to 1928 and predicting g = 2; Kusch and Foley working at Columbia; alpha/pi as the natural expansion parameter, about 1/430 (computed from the sourced alpha); Cs and Rb alpha values coming from atom-recoil or interferometry experiments; Wilson's renormalization work dating to the 1970s; the proton's mass being mostly strong-field energy rather than quark masses; lattice QCD as a numerical spacetime-grid method; Dyson coming to Cornell from England; Schwinger's results being published early in 1948; time running left to right as a common drawing convention.</description>
+      <enclosure url="https://vanadius.github.io/commute-feed/audio/006-feynman-diagrams.mp3" length="10552233" type="audio/mpeg" />
+      <guid isPermaLink="false">commute-series-006-feynman-diagrams</guid>
+      <pubDate>Wed, 11 Nov 2026 21:31:46 +0000</pubDate>
+      <itunes:duration>1759</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>005. The gas fire, part 1: combustion</title>
+      <description>- Propane carries about 2.5 times the energy of natural gas per cubic foot (about 2,488 vs 1,012 Btu) and needs about 2.5 times the air (23.7 vs 9.6 cubic feet), so both need about the same air per Btu (Thornton's rule); adiabatic flame temperatures differ by tens of degrees, not hundreds, and laminar flame speeds are similar and slow (about 36 to 42 cm/s).
+- A venturi burner's only pump is the momentum of the gas jet, which scales with supply pressure: a propane regulator at 10 psi gives about 40 times the push of household gas at about 7 inches of water column, and a forge needs nearly all its air premixed, so low-pressure natural gas usually wants a blower.
+- Rich, neutral and lean set how much free oxygen, carbon monoxide and hydrogen surround the bar; even a neutral flame scales steel above about 750 C because of its CO2 and water vapor; dragon's breath is CO and H2 from a rich fire burning in room air; scale is about 95% wüstite, which grows fast because iron diffuses outward through its vacancies (parabolic law).
+
+Forge task:
+Cut two identical pieces of mild steel from the same bar (for example a few inches of 3/8 by 1 inch flat). Wire-brush them clean and weigh each to 0.1 g. Run the forge lean (choke open, or gas turned down against the air on a blown burner) until there is no flame at the door; let it settle ten minutes. Give the first piece ten minutes by a timer at a full yellow forging heat in a marked spot, then let it cool untouched. Set the forge rich (a few inches of orange to yellow flame at the door), let it settle, and repeat with the second piece in the same spot for the same time. Compare surfaces cold, then knock and brush off the scale and reweigh. The mass lost is scale loss, lean vs rich.
+
+Safety: carbon monoxide alarm installed and tested before you light; doors open and air moving, especially on the rich run, which makes the most carbon monoxide. Leak-test every fitting with soapy water, never a flame. On a small propane bottle, watch for frost and stop if the forge sags; never warm a bottle with a torch or by the forge. Safety glasses when knocking off scale. Keep sparks and ignition sources away from low spots where propane would collect.
+
+Chew on this:
+1. If the air needed per Btu is nearly the same for every hydrocarbon, what does that say about where the energy in burning comes from, and is there a fuel you might forge with that breaks the rule?
+2. Steel mills fire rich around the steel and burn the leftovers with extra air downstream. Could you build that into a hobby forge, and what would it cost in heat and in carbon monoxide?
+3. If decarburization outruns scaling at a low red and scaling wins at a high yellow, how should you bring a high-carbon blade up to heat, and how long should you let it sit there?
+
+Sources:
+- Propane vs natural gas heating value (2,488 vs 1,012 Btu/cu ft), air required (23.68 vs 9.57 cu ft per cu ft), specific gravity (1.5 vs 0.6), "maximum flame temperature" (3,595 vs 2,834 F), flammability limits (2.15 to 9.6% vs 5 to 15%), propane vapor pressure vs temperature: Propane Education &amp; Research Council, Technical Pocket Guide: https://cloudinary.propane.com/image/upload/v1664396780/Residential:Commercial/Brochures/4482-BR-21_Technical-Pocket-Guide_v3_HRpg.pdf
+- Adiabatic flame temperature in air, methane 2,236 K and propane 2,250 K, conditions: Engineering Toolbox, Adiabatic Flame Temperatures: https://engineeringtoolbox.com/adiabatic-flame-temperature-d_996.html
+- Alkane combustion table (max flame speed 1.1 vs 1.3 ft/s, adiabatic flame temperature 3,484 vs 3,573 F): Engineering Toolbox, Paraffins and Alkanes - Combustion Properties: https://www.engineeringtoolbox.com/paraffins-alkanes-combustion-d_1430.html
+- Thornton's rule and Huggett's 13.1 kJ per gram of oxygen: NIST, Estimation of Rate of Heat Release by Means of Oxygen Consumption Measurements: https://nvlpubs.nist.gov/nistpubs/sp958-lide/html/280-282.html
+- Methane-air laminar flame speed benchmark, 36 cm/s at stoichiometric, 298 K, 1 atm: Stanford/SRI FFCM-1 target fls_27b: https://web.stanford.edu/group/haiwanglab/FFCM1/Targets/fls_27b.html
+- Methane peak about 38 cm/s and propane peak about 42 cm/s at equivalence ratio about 1.1, same apparatus: Dirrenberger et al., Laminar flame velocity of components of natural gas, ASME GT2011-46312: https://torroja.dmt.upm.es/congresos/asme_2011/data/pdfs/trk-4/GT2011-46312.pdf
+- Stationary flame requires local burning velocity equal to flow velocity; flashback: IIT Kanpur virtual lab, Measurement of Laminar Burning Velocity: https://home.iitk.ac.in/~mishra/virtual_lab/documentor/theory1.html
+- Gas-jet momentum proportional to pressure; air-gas ratio unchanged by pressure alone for a given burner; friction and burner resistance losses: Berry et al., Design of Atmospheric Gas Burners, Bureau of Standards Technologic Paper 193 (1921): https://nvlpubs.nist.gov/nistpubs/nbstechnologic/nbstechnologicpaperT193.pdf
+- How atmospheric burners entrain primary air; about 4 in. w.c. natural gas vs about 10 in. w.c. propane manifold pressure; primary vs secondary air: BC Campus Open Textbook, Plumbing, Describe atmospheric burners: https://opentextbc.ca/plumbing3e/chapter/describe-atmospheric-burners/
+- Gas piping designed for 7 to 14 inches of water column (manufactured homes): 24 CFR 3285.605: https://www.law.cornell.edu/cfr/text/24/3285.605
+- Forum experience: 5 psi barely enough for a naturally aspirated burner, house gas run with a fan: iForgeIron, Running a forge on house pressure: https://www.iforgeiron.com/topic/69586-running-a-forge-on-house-pressure/
+- Rich, neutral, lean; dragon's breath color as a mixture guide; scale test for neutral; methods for setting neutral: iForgeIron, Rich vs lean vs neutral: https://www.iforgeiron.com/topic/47564-rich-vs-lean-vs-neutral/
+- Dragon's breath as exhaust; running rich and exhaust recirculation into burners make more CO; ventilation mandatory: iForgeIron, Gas forge dragon's breath: https://www.iforgeiron.com/topic/6515-gas-forge-dragons-breath/
+- Rich combustion products include CO and H2: Colorado State University, Thermodynamics, Combustion: https://www.engr.colostate.edu/~allan/thermo/page9/page9.html
+- Premixed flame with excess fuel in open air produces an additional diffusion flame zone: Britannica, Combustion phenomena and classification: https://www.britannica.com/science/combustion/Combustion-phenomena-and-classification
+- Reheating furnaces: 1 to 3% scale yield loss, excess air effects, flue gas oxidizing above about 750 C, stoichiometric firing is scaling, firing at 80 to 90% of stoichiometric, O2 and H2O effects, scale layers 95/4/1, wüstite unstable below about 570 C and melting about 1,370 to 1,425 C: ISPATGuru, Scale formation in reheating furnaces: https://www.ispatguru.com/?p=3992
+- Decarburization reactions (Boudouard, water gas, methane, oxygen), about 700 C and above: Wikipedia, Decarburization: https://en.wikipedia.org/wiki/Decarburization
+- Decarburization as carbon equilibrium between steel and furnace gas: Thermal Processing, How to keep decarburization in check: https://thermalprocessing.com/how-to-keep-decarburization-in-check/
+- Decarburization outruns oxidation below about 850 C, fully decarburized layer peaks near 800 C, both rise above 1,000 C (35CrMo in air): Chen et al., High Temperature Materials and Processes 41 (2022): https://www.degruyterbrill.com/document/doi/10.1515/htmp-2022-0237/html
+- Wüstite 95 : magnetite 4 : hematite 1 for pure iron; parabolic rate constants for Fe-Mn at 950 to 1,150 C: Aghaeian et al., High Temperature Corrosion of Materials 99 (2023): https://link.springer.com/article/10.1007/s11085-023-10153-7
+- Wüstite rock-salt structure with about 5 to over 12% iron-site vacancies; thick-scale growth parabolic and diffusion controlled: Davis, Simnad and Birchenall, On the Mechanism and Kinetics of the Scaling of Iron (AIME, 1952): https://onemine.org/documents/institute-of-metals-division-on-the-mechanism-and-kinetics-of-the-scaling-of-iron
+- Iron self-diffusion in the oxides confirms Wagner's oxidation theory (abstract only): Himmel, Mehl and Birchenall, Self-Diffusion of Iron in Iron Oxides and the Wagner Theory of Oxidation (AIME, 1954): https://onemine.org/documents/institute-of-metals-division-self-diffusion-of-iron-in-iron-oxides-and-the-wagner-theory-of-oxidation
+- Carbon monoxide: odorless, colorless, flu-like symptoms, battery or battery-backup detectors: CDC, Carbon Monoxide Poisoning Basics: https://www.cdc.gov/carbon-monoxide/about/index.html
+- Propane heavier than air and may settle near the ground; leak check with soapy water; odor can be absorbed; never use or store cylinders in an enclosed area: Propane.com, Safety Guide for Portable Propane Cylinders: https://propane.com/safety/safety-guide-for-portable-propane-cylinders/
+- Never use a match or lighter to check for leaks: Propane101, How Do I Check for Propane Leaks?: https://propane101.com/checkingforgasleaks.htm
+- Convective currents often matter more than density in real releases; vaporization cooling lowers container temperature: CPSC, LP gas safety report: https://www.cpsc.gov/s3fs-public/LPGASP2.PDF
+- Vapor withdrawal lowers pressure, latent heat cools the liquid, heat returns only through the wetted surface: RegO, Determining Propane Vapor Capacity: https://www.regoproducts.com/content/dam/pes/field_topics/Field_Topic_2022-08_Determining_Propane_Vapor_Capacity.pdf
+- Frost line and valve icing from rapid withdrawal; match cylinder size to appliance demand: Blue Rhino FAQ, Why do tanks sometimes freeze up: https://bluerhino.com/propane-info/faqs/tank-use-faqs/why-do-tanks-sometimes-freeze-up-when-turned-on-al
+
+Not sourced, stated from general knowledge in the episode: typical forge regulator settings (a few psi into the teens); 1 psi is about 27.7 inches of water column and the 40x pressure ratio is arithmetic from it; propane leaning toward flashback and natural gas toward lift-off; forge burner flares as flame holders; the yellow of dragon's breath as glowing soot; the frost line marking the liquid level; the oxide-to-metal volume ratio of about 1.7 (arithmetic from the estimate); never warming a cylinder with a torch or near the forge; "smell propane, think low; smell natural gas, think high."</description>
+      <enclosure url="https://vanadius.github.io/commute-feed/audio/005-gas-fire-combustion.mp3" length="9807587" type="audio/mpeg" />
+      <guid isPermaLink="false">commute-series-005-gas-fire-combustion</guid>
+      <pubDate>Wed, 11 Nov 2026 21:27:59 +0000</pubDate>
+      <itunes:duration>1635</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>004. Bloomery to Bessemer</title>
+      <description>- For most of history steel was made without knowing carbon existed: the bloomery reduced ore in the solid state and gave an uneven bloom of soft iron, steel and phosphoric iron that smiths sorted by hand; cementation soaked carbon into bars over days; crucible steel (South Asian wootz, Central Asian crucible steel, Huntsman's Sheffield cast steel) evened it out by melting.
+- The blast furnace went the other way, loading iron with about 4% carbon so it melts near 1130 C, and puddling burned the carbon back out; carbon was proposed as the difference between iron, steel and cast iron around 1781 to 1786 and took decades to become consensus.
+- Bessemer (1856) burned the carbon out with air, using the impurities as fuel; Mushet's manganese dealt with oxide and sulfur (the hot-shortness link to the smithing track), and the Thomas-Gilchrist basic lining (1878-79) finally removed phosphorus.
+
+Chew on this:
+1. The wootz makers forged cool and cycled the steel many times, and the pattern only appears if you don't overheat it. What other craft practices might encode a phase boundary, a temperature you must not cross, without anyone having named it?
+2. Swedish iron was a trusted brand long before anyone could say why it was better. What would you test before trusting a steel supplier the way Sheffield trusted Dannemora?
+3. The Damascus nanotube story spread far faster than the correction. What's your checklist for deciding whether a striking claim about old technology is replicated or just repeated?
+
+Sources:
+- Bloomery: metal never liquid, CO reduction from about 800 C, bloom heterogeneity (ferritic iron, phosphoric iron to 1% P, steel to 0.8% C), bloom smithing to homogenise or separate: Historical Metallurgy Society, Archaeology Datasheet 3, Iron working processes: https://historicalmetallurgy.org/media/gkjllzqs/hmsdatasheet03.pdf
+- Bloomery furnace size, temperatures 500 to 1300 C, slag melting 1100 to 1200 C, iron melting 1538 C: Historical Metallurgy Society, Datasheet 301, Bloomery smelting: https://historicalmetallurgy.org/media/l5dh3df0/hmsdatasheet301.pdf
+- Phosphorus raising the ductile-brittle transition (about -50 C pure, about +10 C at 0.6% P; ~100x fracture energy drop), clean iron also cold-short: University of Kiel, Ductile to brittle transition: https://www.tf.uni-kiel.de/matwis/amat/iss/kap_9/illustr/s9_1_1.html
+- Cementation (hours or days, diffusion from surface), Chinese low-temperature cementation, co-fusion, blast furnace in China perhaps 5th century BCE, Europe 13th-14th century, cast iron about 4% C, chao fining, origins debated: Donald B. Wagner, archaeometallurgy of iron, introduction: https://donwagner.dk/arch-iron/eu/intro-eu.html and cementation page: https://donwagner.dk/arch-iron/eu/cementation-eu.html
+- Derwentcote: built about 1730, over 1100 C, 6 to 10 days, about three-week cycle, 10 tons, Swedish bar iron, blisters, shear steel for blades: English Heritage, Derwentcote Steel Furnace history: https://english-heritage.org.uk/visit/places/derwentcote-steel-furnace/history
+- Swedish/Dannemora iron best by 1631; shear steel by cutting and rewelding: Wikipedia, Cementation process: https://en.wikipedia.org/wiki/Cementation_process
+- Shear and double shear steel; Huntsman in the 1740s, coke furnace about 1600 C, about 15 kg crucibles, about 3-hour melt: Historical Metallurgy Society, Datasheet 302, Steelmaking pre-20th century: https://historicalmetallurgy.org/media/eoikpxmw/hmsdatasheet302.pdf
+- Huntsman's Sheffield works 1751; waterpowered bloomeries; 3,400 puddling furnaces by 1860: Britannica, Steel: History: https://www.britannica.com/technology/steel/History
+- Liquid steel needs at least 1400 C; Fe-4.3C melts about 1130 C; Akhsiket crucible steel early 9th to late 12th century, at least 1,100 kg a year; separate South Asian and Ferghana traditions; Sri Lankan evidence predates Indian; origin of Damascus steel debated: Rehren, "Cutting edge technology: the Ferghana process" (UCL Discovery): https://discovery-pp.ucl.ac.uk/93654/1/Rehren_Cutting_edge_technology_-_the_Ferghana_p.pdf
+- Wootz etymology (Tamil urukku), mid-first-millennium-BC claim, plant-matter carbon: Wikipedia, Wootz steel: https://en.wikipedia.org/wiki/Wootz_steel
+- South Indian crucible sites, Kodumanal about 2nd century BC, preliminary nature of the evidence: Srinivasan and Griffiths, MRS Proceedings 462 (1997): https://www.cambridge.org/core/journals/mrs-online-proceedings-library-archive/article/abs/crucible-steel-in-south-indiapreliminary-investigations-on-crucibles-from-some-newly-identified-sites/0C7F9DB996F0DD5758502D8F62201947 and Srinivasan, Papers from the Institute of Archaeology 5 (1994): https://student-journals.ucl.ac.uk/pia/article/164/galley/241/view
+- Wootz banding from microsegregated carbide formers, V effective at 40 ppmw, Mn banding at about 200 ppmw, 1.4 to 1.8% C, cycling 50 to 100 C below Acm, 6 to 8 cycles, ore-exhaustion theory: Verhoeven, Pendray et al., JOM (1998): https://tms.org/pubs/journals/jom/9809/verhoeven-9809.html
+- Nanotube claim and skepticism (Verhoeven, Zettl, Paufler's concession): Nature news, 15 November 2006: https://www.nature.com/news/2006/061113/full/news061113-11.html
+- Nanotube claim not confirmed by further studies; Verhoeven-Pendray later finding on V not dispersing; trade-route and other theories for loss: Wikipedia, Damascus steel: https://en.wikipedia.org/wiki/Damask_steel
+- Wootz toughness and edge retention tests: Knife Steel Nerds, Damascus, steel and knife properties: https://knifesteelnerds.com/?p=7854
+- Cort's 1784 patent, reverberatory furnace separating fuel and charge, melting point rising 1150 to 1540 C, charge 800 to 900 lb, puddlers dying in their 30s: Wikipedia, Puddling (metallurgy): https://en.wikipedia.org/wiki/Puddling_(metallurgy)
+- Reaumur 1722 "steel is dirty iron", Bergman 1781 plumbago, Monge/Vandermonde/Berthollet 1786: University of Kiel, Steel Revolution: https://www.tf.uni-kiel.de/matwis/amat/iss/kap_a/illustr/sa_5_1.html
+- Bergman within phlogiston theory, 1786 report, Clouet 1798 diamond experiment (quoting The Epic of Steel): Jason Crawford, Roots of Progress, "Science and steel": https://blog.rootsofprogress.org/science-and-steel
+- Guyton de Morveau 1786, independently, carbon content alone: Encyclopedia.com, Guyton de Morveau: https://encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/guyton-de-morveau-louis-bernard
+- Reaumur's "soufres et sels", 1786 memoir hesitating, Monge 1793-94 on white cast iron as iron and oxygen: Le Coze, Comptes Rendus Chimie 11 (2008): https://comptes-rendus.academie-sciences.fr/chimie/item/10.1016/j.crci.2008.05.007.pdf
+- 1797 Britannica explaining cast iron, steel and wrought iron by phlogiston, citing Bergman: Encyclopaedia Britannica 3rd ed., "Iron": https://jimclifford.ca/early_encyclopedia_britannica/articles/1797/eb_3rd_1797_012101.html
+- Bessemer at Cheltenham August 1856, oxidation of Si and C raising temperature, sulfur and phosphorus not removed, Mushet on oxide hot-shortness and spiegeleisen manganese, Göransson 1858, Kelly testimony and Bishop's verdict: Philip W. Bishop, The Beginnings of Cheap Steel, Smithsonian (1959), Project Gutenberg: https://gutenberg.org/files/29633/29633-h/29633-h.htm
+- Bessemer blow about 20 minutes, price fall from about 40 to 6-7 pounds a ton, Kelly 1857 priority, Wagner on Chinese workers, Mushet's lapsed patent and Bessemer's royalties: Wikipedia, Bessemer process: https://en.wikipedia.org/wiki/Bessemer_process
+- MnS melting higher than FeS and not concentrating at grain boundaries: Wikipedia, Red-short carbon steel: https://en.wikipedia.org/wiki/Red-short_carbon_steel
+- Thomas: police court clerk, Birkbeck evening classes, strong base by end of 1875, announced 1878, commercial 1879, basic slag fertilizer, died 1885 aged 34: Encyclopedia.com, Thomas, Sidney Gilchrist: https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/thomas-sidney-gilchrist
+- Percy Gilchrist at Blaenavon, dolomite or limestone lining, Bolckow Vaughan 1879, fertilizer: Cleveland and Teesside Local History Society, "Introduction of the Gilchrist-Thomas process": https://ctlhs.co.uk/golden-jubilee/fifty-interesting-events/the-introduction-of-the-gilchrist-thomas-process-1879/
+- Carbon solubility in austenite (about 2%) and ferrite (about 0.02%), as in episode 1: Wikipedia, Allotropes of iron: https://en.wikipedia.org/wiki/Allotropes_of_iron
+
+Not sourced, stated from general knowledge in the episode: CO2 regenerating to CO over hot charcoal; diffusion depth scaling with the square root of time; the CO-from-slag-oxide mechanism for blisters; dendritic solidification wording; smiths sorting bloom pieces by quench response; acid slag failing to hold phosphorus (only "a strong base was needed" is sourced); iron oxide dissolving in over-blown steel; manganese present in essentially all modern plain carbon steels; Cumberland as the county of Workington hematite.</description>
+      <enclosure url="https://vanadius.github.io/commute-feed/audio/004-bloomery-to-bessemer.mp3" length="10789686" type="audio/mpeg" />
+      <guid isPermaLink="false">commute-series-004-bloomery-to-bessemer</guid>
+      <pubDate>Wed, 11 Nov 2026 21:24:24 +0000</pubDate>
+      <itunes:duration>1798</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>003. Why steel moves, part 2: where it goes wrong</title>
+      <description>- Hot shortness: sulfur collects at grain boundaries as iron sulfide, and the iron/iron-sulfide eutectic melts at about 988 C, inside the forging range, so boundaries go liquid under the hammer. Manganese ties sulfur up as manganese sulfide (melts about 1610 C) in discrete inclusions. Copper from scrap causes a separate hot shortness that manganese doesn't fix.
+- Blue brittleness (roughly 200 to 370 C by the glossaries) is dynamic strain aging: carbon and nitrogen pin moving dislocations, raising strength and cutting ductility below room-temperature levels; the trough moves hotter as you strike faster. Grain growth is driven by boundary energy, accelerates sharply with temperature, costs toughness, and is reset by the phase change in normalizing; overheated steel recovers, burnt steel doesn't.
+- Glow color is the visible tail of black-body radiation, so it tracks temperature steeply but is judged against ambient light. The magnet mostly tracks the transformation to austenite, not the Curie point (about 770 C); the Curie point only governs low-carbon steels, and the magnet says nothing about carbide dissolution in hypereutectoid steels or full transformation in chromium-alloyed ones. Recalescence is the visible release of transformation heat on cooling.
+
+Forge task:
+In a dimmed shop, heat a finger-sized bar of known high-carbon steel (1084 or 1095) evenly to a little past nonmagnetic, check with a magnet, and hold a minute. Lay it on a firebrick out of drafts and watch it cool through dull red: it dims, then briefly flushes brighter, often as a traveling band. That is recalescence. Test with the magnet just before and just after. Optionally heat a second bar slowly and watch through the forge mouth for a darker patch lagging as it crosses critical (decalescence).
+
+Safety: safety glasses against scale, and don't stare into the forge mouth for long. Leak-test gas fittings with soapy water, never a flame. If you close up the shop to darken it, keep ventilation running and the carbon monoxide alarm on; the forge still makes CO. Propane pools low; natural gas rises. No galvanized, plated or leaded stock in the fire.
+
+Chew on this:
+1. Sulfur is still in your steel as manganese sulfide stringers stretched along the bar by rolling. What would you expect for toughness along the bar versus across it?
+2. If you moved your forge from a dim garage to a bright, open shop, which way would your heats drift before you noticed, and how would you catch it?
+3. If a normalize resets grain size anyway, why does the last forging heat matter so much, and what does that say about when to stop forging and start heat treating?
+
+Sources:
+- Red-short and hot-short as synonyms; FeS at grain boundaries melts low; Mn forms MnS that doesn't collect at boundaries; work heating; copper hot shortness from scrap: Wikipedia, Red-short carbon steel: https://en.wikipedia.org/wiki/Red-short_carbon_steel
+- FeS melting point 1190 C; low-melting eutectic at about 988 C; liquid at boundaries when reheated to 980 to 1200 C; Mn additions avoid FeS: steeldata.info, Troilite (FeS): https://steeldata.info/inclusions/demo/help/names/troilite.html
+- Iron/iron-sulfide eutectic films embrittle low-manganese wrought iron in hot working; Mn forms MnS: Total Materia, The Embrittlement and Fracture of Steels: Part Two: https://www.totalmateria.com/articles/the-embrittlement-and-fracture-of-steels-2
+- MnS melting point about 1610 C (1883 K): Lu and Miki, ISIJ International 61(9), 2021: https://www.jstage.jst.go.jp/article/isijinternational/61/9/61_ISIJINT-2021-088/_html/-char/en
+- Mn/S above about 3.5 for crack-free hot rolling; low ratios give low-melting Fe-rich sulfides: Liu et al., High Temperature Materials and Processes 33(6), 2014: https://doaj.org/article/b220f10606a8435ba0d242ead088b8db
+- Mn:S above 8:1 recommendation (industry page, weaker source): china-casting.com, Hot Shortness in Steel Alloys: https://china-casting.com/hot-shortness/
+- Free-machining steels add sulfur, MnS as chip breaker; 12L14 leaded grade: Wikipedia, Free-machining steel: https://en.wikipedia.org/wiki/Free-machining_steel
+- Blue brittleness about 200 to 370 C, worst when worked: Cutting Tool Engineering glossary, Blue brittleness: https://ctemag.com/glossary-terms/blue-brittleness/
+- Blue brittleness 205 to 370 C, killed steels virtually free of it; overheating vs burning; normalizing, decalescence, recalescence, Curie temperature definitions: ispatguru, Glossary of terms used in heat treatment of steel: https://www.ispatguru.com/glossary-of-terms-used-in-heat-treatment-of-steel/
+- Blue brittleness as strain aging with higher strength and lower ductility/impact strength; separate 500 F embrittlement in Q&amp;T steels from boundary precipitation: PMPA, Blue Brittleness, Temper Embrittlement, 400-500 Degree C Embrittlement and More: https://pmpa.org/tag/blue-brittleness
+- Dynamic strain aging 150 to 350 C in low alloy steels, peak near 250 C; C and N as the responsible solutes; serrated flow (Portevin-Le Chatelier); raises strength, lowers ductility: Total Materia, Dynamic Strain Aging of Steel: Part One: https://www.totalmateria.com/zh/articles/dynamic-strain-aging-of-steel-1
+- Ductility minimum in mild steel torsion shifts hotter with strain rate; adiabatic heating; nitrogen strain aging (abstract only): Mima and Inoko, J. Japan Inst. Metals 32(5), 1968: https://www.jstage.jst.go.jp/article/jinstmet1952/32/5/32_5_453/_article/-char/en
+- Grain growth driving force (boundary area), curvature-driven motion, exponential temperature dependence, Zener pinning: Wikipedia, Grain growth: https://en.wikipedia.org/wiki/Grain_growth
+- Larger grains reduce toughness; 5160 toughness drop at 1550 F and above; 1084 fracture tests; magnet method fails for about 3 percent Cr and up: Knife Steel Nerds, How to Heat Treat Knife Steel in a Forge: https://knifesteelnerds.com/2021/09/23/how-to-heat-treat-knife-steel-in-a-forge/
+- Grain size large after forging; normalizing temperatures (1084 about 845 C, 52100 about 925 C), 10 to 15 minute hold, air cool; normalize and anneal refines overheated 1084; extra grain refining cycles gave no benefit: Knife Steel Nerds, How to Thermal Cycle Knife Steel: https://knifesteelnerds.com/?p=5460
+- Curie point of iron about 770 C; magnet tracks transformation in eutectoid and hypereutectoid steels; Curie governs below about 0.45 percent C; carbide dissolution (1080 about 15 min at 730 C); 52100 and chromium steels; magnetism returns well below Curie on cooling: Knife Steel Nerds, Austenitizing and Magnetism: https://knifesteelnerds.com/2019/03/18/magnet-heat-treating/
+- Curie point 771 C (A2); beta iron as the old name for paramagnetic alpha iron, not a separate phase; 727 C: Wikipedia, Allotropes of iron: https://en.wikipedia.org/wiki/Allotropes_of_iron
+- Draper point 525 C, John William Draper 1847: Wikipedia, Draper point: https://en.wikipedia.org/wiki/Draper_point
+- Wien's constant about 2898 micron kelvin; first visible glow of heated iron deep red near 900 K: Wikipedia, Wien's displacement law: https://en.wikipedia.org/wiki/Wien%27s_displacement_law
+- Color sequence with temperature; ghostly grey first glow; real bodies are not ideal black bodies (emissivity): Wikipedia, Black-body radiation: https://en.wikipedia.org/wiki/Black-body_radiation
+- Ambient light as the biggest problem in judging heat; below about 1400 F may be imperceptible in sunlight; charts good to about plus or minus 200 F; heat treaters in darkened rooms; shaded box: anvilfire, Colors of the Forge: https://anvilfire.com/21st-century-blacksmithing/colors-of-the-forge
+- Barrett named recalescence (1873); Gore's 1869 elongation; Roberts-Austen on coin-die hardeners: Barrett, "Historical Note on Recalescence," Nature 60 (1899): https://www.nature.com/articles/060173b0.pdf
+- Recalescence brightening visible in a dark room: Danforth, An Elementary Outline of Mechanical Processes, sec. 167: https://chestofbooks.com/crafts/mechanics/Mechanical-Processes/167-Changes-In-Steel-Due-To-Heating.html
+- Recalescence temperature rise and hold; heating vs cooling retardation points (old text, author not named): 911Metallurgist, Carbon-Steel Quenching and Thermal Curves Critical Points: https://www.911metallurgist.com/blog/carbon-steel-quenching-thermal-curves-critical-points/
+
+Not sourced, stated from general knowledge in the episode: stoichiometric Mn:S of about 1.7 by weight (own arithmetic); copper melting at about 1085 C; typical carbon steels carrying a few tenths of a percent Mn; temper oxide colors (straw, brown, blue) and blue sitting mid-band; aluminum tying up nitrogen in killed steels; parabolic (square-root-of-time) grain growth; coarse fractures looking sparkly, fine ones velvety; burnt steel sparkling at a welding heat; the mechanism of grain refinement by renucleation during transformation; the roughly 7.5x rise in red (650 nm) radiance from 1000 K to 1100 K (own calculation from the Wien approximation to Planck's law); emissivity of scaled vs clean steel and eye adaptation to shop light color; recalescence often appearing as a band that travels along the bar and decalescence as a lagging darker patch; lead fume from leaded steel and zinc fume illness from galvanized stock.</description>
+      <enclosure url="https://vanadius.github.io/commute-feed/audio/003-where-steel-goes-wrong.mp3" length="10478568" type="audio/mpeg" />
+      <guid isPermaLink="false">commute-series-003-where-steel-goes-wrong</guid>
+      <pubDate>Wed, 11 Nov 2026 21:20:34 +0000</pubDate>
+      <itunes:duration>1746</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>002. Time's arrow</title>
+      <description>- The fundamental laws are time-reversal invariant for practical purposes (the weak-force T violation BaBar observed directly in 2012 is real but tidy, CPT survives, and it is not known to have anything to do with the everyday arrow); Boltzmann's 1877 counting argument, S = k log W over coarse-grained macrostates, explains entropy increase as overwhelming odds, not necessity.
+- Loschmidt's reversibility objection, pushed to its end, shows that counting alone also predicts a higher-entropy past; the fix is a boundary condition, Albert's "Past Hypothesis", and Boltzmann's alternative (we live in a fluctuation) fails on the Boltzmann brain problem.
+- The early universe was thermally near-equilibrium but gravitationally smooth, which with gravity is the low-entropy state (Penrose; Egan and Lineweaver's budget runs from about 10^89 k in radiation to about 10^104 k today, mostly in supermassive black holes, against a ceiling near 10^122 to 10^123 k); the radiative arrow probably reduces to the thermodynamic one, the records and causal arrows only partly, the cosmological arrow does not flip in recollapse, and why the Past Hypothesis holds is open.
+
+Chew on this:
+1. The second law is statistics, and small systems break it for short times. How small and how short before "never seen" becomes "seen sometimes", and does that change what you mean by "law"?
+2. If records depend on a low-entropy past, a record of the future would need a low-entropy future. Is anything in physics like that, and is our inability to remember tomorrow a fact about brains or about the cosmos?
+3. The Past Hypothesis is a law, a brute accident, or something deeper theory will explain. Which would satisfy you, and what evidence could tell them apart?
+
+Sources:
+- Past Hypothesis (named by Albert, 2000), retrodiction problem, critics including Earman's "not coherent enough to be false", Price's dilemma and "temporal double standard", Gold universe and Tolman, Ritz-Einstein 1909 and Einstein's "reasons of probability" quote, radiation arrow "ultimately thermodynamic", Earman's bomb example, Albert and Loewer's Mentaculus, "one arrow to rule them all", inflation not producing the asymmetry: Callender, "Thermodynamic Asymmetry in Time", Stanford Encyclopedia of Philosophy (rev. 2026): https://plato.stanford.edu/entries/time-thermo/
+- H-theorem 1872 and Boltzmann's "analytical proof" claim, Loschmidt 1876, 1877 combinatorial argument, S = k log W never written by Boltzmann but on his tombstone, Zermelo 1896 as Planck's assistant: "Boltzmann's Work in Statistical Physics", Stanford Encyclopedia of Philosophy: https://plato.stanford.edu/entries/statphys-Boltzmann/
+- Loschmidt's objection exposing the molecular chaos assumption (Stosszahlansatz); fluctuation theorem: Wikipedia, Loschmidt's paradox: https://en.wikipedia.org/wiki/Loschmidt%27s_paradox
+- Boltzmann entropy as phase-space volume, factor 2^N, 10^(10^20) ratio for about 10^20 particles, "bad phase points" reply, recurrence times longer than the age of the universe, uniform gravitating matter as low entropy, Penrose's 10^(10^123) from a 10^80-baryon black hole: Goldstein, "Boltzmann's Approach to Statistical Mechanics" (arXiv cond-mat/0105242): https://arxiv.org/abs/cond-mat/0105242
+- BaBar direct observation of T violation, about six times more often in one direction, 14 sigma, CPT: SLAC news, 19 Nov 2012: https://www6.slac.stanford.edu/news/2012-11-19-babar-experiment-confirms-time-asymmetry
+- Hahn 1950 spin echo as a quantum implementation of Loschmidt's reversal; echo decay from unreversed spin-spin interactions: Goussev, Jalabert, Pastawski, Wisniacki, "Loschmidt Echo" (arXiv 1206.6348): https://arxiv.org/abs/1206.6348
+- Experimental second-law violations for small systems over short times (optical trap, colloidal particle): Wang, Sevick, Mittag, Searles, Evans, Phys. Rev. Lett. 89, 050601 (2002): https://researchportalplus.anu.edu.au/en/publications/experimental-demonstration-of-violations-of-the-second-law-of-the/
+- Boltzmann's 1896 fluctuation hypothesis, Eddington 1931, Feynman, Albrecht and Sorbo 2004, cosmologists' consensus that Boltzmann brains signal an error, Carroll's "cognitive instability": Wikipedia, Boltzmann brain: https://en.wikipedia.org/wiki/Boltzmann_brain
+- Entropy budget of the observable universe (SMBH about 3 x 10^104 k, stellar black holes about 6 x 10^97, CMB and neutrinos about 5 x 10^89 each, gas about 7 x 10^81, horizon maximum about 2.6 x 10^122), Penrose and Weyl curvature as gravitational entropy: Egan and Lineweaver, "A Larger Estimate of the Entropy of the Universe", ApJ 2010 (arXiv 0909.3983): https://arxiv.org/abs/0909.3983
+- Weyl curvature hypothesis, Penrose 1979, low gravitational entropy at the Big Bang, Penrose's view of it as an alternative to inflation: Wikipedia, Weyl curvature hypothesis: https://en.wikipedia.org/wiki/Weyl_curvature_hypothesis
+- Penrose's hypothesis wording, Penrose 1981 maximum-entropy estimate, Cycles of Time: "On a Quantum Weyl Curvature Hypothesis" (arXiv 2111.02137): https://arxiv.org/abs/2111.02137
+- Eddington coined "time's arrow" (1927, book 1928); list of arrows; Carroll's view that all arrows trace to the Big Bang: Wikipedia, Arrow of time: https://en.wikipedia.org/wiki/Arrow_of_time
+- Hawking's memory argument for the psychological arrow; his mistake about reversal in contraction, corrected after Page and Laflamme: LitCharts summary, A Brief History of Time, chapter 9: https://www.litcharts.com/lit/a-brief-history-of-time/chapter-9
+- Density perturbations do not shrink again; arrow does not reverse at maximum expansion: Hawking, Laflamme, Lyons, "The Origin of Time Asymmetry" (arXiv gr-qc/9301017): https://arxiv.org/abs/gr-qc/9301017
+- Carroll and Chen's spontaneous-inflation proposal: arXiv hep-th/0410270 (2004): https://arxiv.org/abs/hep-th/0410270; plain-language account and "skeleton in the closet": University of Chicago Chronicle, 18 Nov 2004: https://chronicle.uchicago.edu/041118/entropy.shtml; comment disputing a premise: arXiv hep-th/0411115: https://arxiv.org/abs/hep-th/0411115
+
+Not sourced, stated from general knowledge in the episode: Newton, Maxwell and Schrodinger equations as time-reversal invariant; CPT believed exact; the CMB as a near-perfect blackbody; Weyl tensor as the tidal part of curvature; Penrose's "creator with a pin" image; stars, planets and people as a rounding error on the entropy budget; the universe's expansion accelerating rather than recollapsing; Boltzmann's fluctuation idea as essentially anthropic; the coin arithmetic (writer's own).</description>
+      <enclosure url="https://vanadius.github.io/commute-feed/audio/002-times-arrow.mp3" length="10640788" type="audio/mpeg" />
+      <guid isPermaLink="false">commute-series-002-times-arrow</guid>
+      <pubDate>Wed, 11 Nov 2026 21:16:51 +0000</pubDate>
+      <itunes:duration>1773</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>001. Why steel moves, part 1: the lattice</title>
+      <description>- Steel bends because dislocations, line defects in the crystal, glide one atomic row at a time; that is why real iron yields at roughly 1/500 of a perfect crystal's theoretical strength.
+- Face-centered austenite has 12 close-packed slip systems and body-centered ferrite has awkward, thermally activated screw dislocations, but at forging heat temperature matters more than lattice, and the evidence found suggests austenite is if anything the harder phase at the same temperature.
+- Hot work doesn't work-harden because recovery and recrystallization clean up dislocations as fast as the hammer makes them (austenite mainly by dynamic recrystallization, ferrite by dynamic recovery); "too cold to forge" is where that cleanup stops keeping up, and a hammer's fast blows act "colder" and work the surface where a press works the whole section.
+
+Forge task:
+Saturday morning, walk the shop with a notebook and list everything between you and lighting the forge. Don't fix anything yet. Check: propane bottle fill and date, regulator and hose condition, forge lining, anvil access, a clear path forge to anvil to quench, extinguisher present and charged.
+
+Safety: leak-test every gas fitting with soapy water before any flame, never with a lighter. Put a carbon monoxide alarm in the shop if there isn't one. Pull anything galvanized or plated out of the scrap pile so it never ends up in the fire.
+
+Chew on this:
+1. If austenite recrystallizes whenever it's worked hard and hot, the finished grain size should depend mostly on the last heat and last few blows. Does that match your experience, and what does it mean for how you finish a piece?
+2. Would a press-forged and a hammer-forged bar of the same steel differ inside, and how would you find out?
+3. "FCC forges easily" was a working rule with a slightly wrong reason. What other shop lore might be right in practice and wrong in explanation?
+
+Sources:
+- Theoretical vs real shear strength, Fe polycrystal ratio about 500, 1934 trio, first observations: Mines Albi, SciMat course: https://nte.mines-albi.fr/SciMat/en/co/SM3uc2-1.html
+- 1934 Taylor, Orowan, Polanyi; first TEM sighting 1955-56 by Hirsch's group: University of Kiel, "Heroes of Dislocation Science": https://www.tf.uni-kiel.de/matwis/amat/iss/kap_5/advanced/t5_4_1.html
+- FCC slip, 12 systems with 5 independent, no close-packed plane in BCC, Schmid's law, von Mises criterion, work hardening and Lomer locks: DoITPoMS, Slip in Single Crystals: https://www.doitpoms.ac.uk/tlplib/slip/printall.php
+- Perfect-crystal vs dislocation stress estimates (about G/5 vs G/180): DoITPoMS, Introduction to Dislocations: https://www.doitpoms.ac.uk/tlplib/dislocations/printall.php
+- FCC {111} planes, &lt;110&gt; directions, 12 systems: University of Washington MSE 170, Lecture 10: https://courses.washington.edu/mse170/lecture_notes/rolandiF08/Lecture10-MR2008.pdf
+- Thermally activated screw dislocation glide and kink-pair mechanism in BCC iron: Screw dislocation modelling in BCC iron, npj Computational Materials (2018): https://www.nature.com/articles/s41524-018-0125-4
+- Iron allotropes (912, 1394, 1538 C), carbon solubility in ferrite and austenite, Curie point: Wikipedia, Allotropes of iron: https://en.wikipedia.org/wiki/Allotropes_of_iron
+- Austenite as the harder phase in hot working; DRV in ferrite, DRX in austenite; SFE: Xu et al., ISIJ International 61(3), 2021: https://www.jstage.jst.go.jp/article/isijinternational/61/3/61_ISIJINT-2020-559/_html/-char/en
+- Stress drop during dynamic gamma-to-alpha transformation: Yada et al., ISIJ International 40(2), 2000: https://www.jstage.jst.go.jp/article/isijinternational1989/40/2/40_2_200/_article/-char/en
+- About 10% stress drops from dynamically formed ferrite above Ae3: Aranas, Jonas et al., ISIJ International 55(1), 2015: https://www.jstage.jst.go.jp/article/isijinternational/55/1/55_300/_html/-char/en
+- Self-diffusion faster in alpha than gamma iron (abstract only): Birchenall and Mehl, AIME (1951): https://onemine.org/documents/institute-of-metals-division-self-diffusion-in-alpha-and-gamma-iron
+- Recovery vs recrystallization vs grain growth; recrystallization rule of thumb: Wikipedia, Recrystallization (metallurgy): https://en.wikipedia.org/wiki/Recrystallization_(metallurgy)
+- Hammer vs press (milliseconds vs seconds, surface vs through-section), die chilling, hot and warm forging ranges for steel: Wikipedia, Forging: https://en.wikipedia.org/wiki/Forging
+- Strain rate and temperature trade-off: Wikipedia, Zener-Hollomon parameter: https://en.wikipedia.org/wiki/Zener%E2%80%93Hollomon_parameter
+
+Not sourced, stated from general knowledge in the episode: Liberty ship brittle fracture as the cold-ferrite example; fish-mouthing from light blows; zinc fume illness from galvanized stock.</description>
+      <enclosure url="https://vanadius.github.io/commute-feed/audio/001-why-steel-moves.mp3" length="9967456" type="audio/mpeg" />
+      <guid isPermaLink="false">commute-series-001-why-steel-moves</guid>
+      <pubDate>Wed, 11 Nov 2026 16:42:44 +0000</pubDate>
+      <itunes:duration>1661</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>

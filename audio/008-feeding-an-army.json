@@ -1,0 +1,14 @@
+{
+  "slug": "008-feeding-an-army",
+  "number": 8,
+  "title": "Feeding an army before refrigeration",
+  "track": "curiosity",
+  "duration_sec": 1737,
+  "bytes": 10421203,
+  "rendered_at": "2026-11-11T21:39:58Z",
+  "model": "gemini-3.8-flash-tts",
+  "voices": {
+    "ALEX": "Charon",
+    "SAM": "Puck"
+  }
+}

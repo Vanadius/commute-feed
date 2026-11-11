@@ -1,0 +1,14 @@
+{
+  "slug": "004-bloomery-to-bessemer",
+  "number": 4,
+  "title": "Bloomery to Bessemer",
+  "track": "curiosity",
+  "duration_sec": 1798,
+  "bytes": 10789686,
+  "rendered_at": "2026-11-11T21:24:24Z",
+  "model": "gemini-3.8-flash-tts",
+  "voices": {
+    "ALEX": "Charon",
+    "SAM": "Puck"
+  }
+}

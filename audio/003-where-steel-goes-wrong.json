@@ -1,0 +1,14 @@
+{
+  "slug": "003-where-steel-goes-wrong",
+  "number": 3,
+  "title": "Why steel moves, part 2: where it goes wrong",
+  "track": "smithing",
+  "duration_sec": 1746,
+  "bytes": 10478568,
+  "rendered_at": "2026-11-11T21:20:34Z",
+  "model": "gemini-3.8-flash-tts",
+  "voices": {
+    "ALEX": "Charon",
+    "SAM": "Puck"
+  }
+}
